@@ -1,0 +1,22 @@
+ .Container{
+    width: 100hv;
+    margin: 10%;
+    justify-content: center;
+    text-align: center;
+}
+ 
+ #nameContainer{
+    border: solid 1px orange ;
+    border-radius: 5px;
+    padding: 10px;
+ }
+ #Show{
+    border:  solid gray 1px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+ }
+ button{
+    padding: 3px;
+    margin: 2px;
+ }
